@@ -30,20 +30,20 @@ It is <strong>very simple to use</strong> and <strong>light weight</strong> that
 ### Linux
  - Install nodejs if you haven't
    - First with curl
-```sh
-sudo apt install curl
-```
+     ```sh
+     sudo apt install curl
+     ```
    - Then downloading nodejs 18 (should work with this bot)
-```sh
-curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
+     ```sh
+     curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+     ```
    - Install it
-```sh
-sudo apt-get install -y nodejs
-```
+     ```sh
+     sudo apt-get install -y nodejs
+     ```
  - Download bot.js, config.json and main.sh
  - Put them in the same folder
  - Edit the config.json file
- - Run the main.sh
-###Android
-- Bruh just google how to download file and install nodejs on termux i'm lazy as fuck
+ - Run the main.sh file
+### Android
+ - Bruh just google how to download file and install nodejs on termux i'm lazy as fuck
