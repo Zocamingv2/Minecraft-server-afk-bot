@@ -13,9 +13,7 @@
 <p><strong>Q: What is a Minecraft Server AFK bot and why do we need it?</strong></p>
 <br />
 <p>
-A: Nếu các bạn tìm được đến cái repo này thì các bạn cũng biết <strong>Mirai Project</strong> là gì rồi.
+A: <strong>Minecraft Server AFK bot</strong> is simply a bot that <strong>afk in server that offline after X minutes if there were no one playing</strong> on the server.
 </p>
 <p>
-<p>
-Nhưng nếu các bạn chưa biết thì <strong>Mirai Project</strong> là một dự án được làm bởi <strong>CatalizCS</strong> và <strong>SpermLord</strong> nhằm tạo ra một hệ thống bot cho <strong>Messenger</strong> dễ sử dụng.
-</p>
+It is <strong>very simple to use</strong> and <strong>light weight</strong> that even my <strong>potato laptop can run it 24/24</strong> without any problem.
