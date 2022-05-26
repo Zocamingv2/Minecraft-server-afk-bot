@@ -1,0 +1,46 @@
+{
+	"user":{
+		"username":"afkbot"
+	},
+
+	"server":{
+		"address":"game2.falix.cc",
+		"port":35628
+	},
+
+	"keyword":{
+		"name":
+		[
+			"afk bot?"
+		]
+    ,
+		"sleep":
+		[
+			"sleep",
+			"Sleep",
+      "ngủ"
+		]
+    ,
+    "login":
+    [
+      "login",
+      "log",
+      "l"
+    ]
+    ,
+    "register":
+    [
+      "register",
+      "reg"
+    ]
+	},
+
+	"message":{
+		"online":"neu cai nay xuat hien thi bot da chay",
+		"afk":"afk bot, chac the",
+		"sleep":"Alright, I'll be back !",
+		"greeting":"Hey, I'm a bot just tell me to sleep and I'll reconnect to let you pass the day.",
+    "login":"/login test",
+    "register":"/register test test"
+	}
+}
