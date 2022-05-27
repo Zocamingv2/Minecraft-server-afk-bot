@@ -25,9 +25,9 @@ It is <strong>very simple to use</strong> and <strong>light weight</strong> that
  - Make sure you have <strong>[nodejs](https://nodejs.org/en/)</strong> lastest version
  - Download at least the bot.js and the config.json
  - Put them in the same folder
- - Install mineflayer through cmd or powershell
+ - Install all package
  ```sh
- npm i mineflayer
+ npm i
  ```
  - Change anything you want to inside config.json
  - Run the bot.js file through cmd/powershell or some shit like that
@@ -47,9 +47,9 @@ It is <strong>very simple to use</strong> and <strong>light weight</strong> that
      ```
  - Download bot.js, config.json and main.sh
  - Put them in the same folder
- - Install mineflayer through terminal
+ - Install all package through terminal
  ```sh
- npm i mineflayer
+ npm i
  ```
  - Edit the config.json file
  - Run the main.sh file
